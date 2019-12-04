@@ -1,0 +1,42 @@
+{
+  "name": "ionic-vanilla-lit-html",
+  "version": "1.0.0",
+  "description": "An example of using ionic 4 with vanilla js and lit-html for rendering",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claytongulick/ionic-vanilla-lit-html.git"
+  },
+  "keywords": [
+    "ionic",
+    "ionic4",
+    "vanilla",
+    "javascript",
+    "js",
+    "lit-html"
+  ],
+  "author": "Clayton C Gulick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claytongulick/ionic-vanilla-lit-html/issues"
+  },
+  "homepage": "https://github.com/claytongulick/ionic-vanilla-lit-html#readme",
+  "dependencies": {
+    "handlebars": "^4.5.3"
+  },
+  "devDependencies": {
+    "@ionic/core": "^4.11.5",
+    "copy-webpack-plugin": "^5.0.5",
+    "css-loader": "^3.2.1",
+    "file-loader": "^5.0.2",
+    "handlebars-loader": "^1.7.1",
+    "html-webpack-plugin": "^3.2.0",
+    "lit-html": "^1.1.2",
+    "style-loader": "^1.0.1",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  }
+}
